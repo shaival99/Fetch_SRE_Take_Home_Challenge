@@ -8,6 +8,7 @@ This is a Python program that monitors the health of a set of HTTP endpoints and
 ### Prerequisites
 
 Make sure you have Python installed on your system. You can download it from the official Python website: [Python Downloads](https://www.python.org/downloads/)
+Try and install the latest version of Python. Note: I am currently using Python 3.10.9
 
 ### Installation
 
