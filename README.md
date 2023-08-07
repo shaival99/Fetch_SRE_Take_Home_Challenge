@@ -14,7 +14,7 @@ Make sure you have Python installed on your system. You can download it from the
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/http-endpoint-health-checker.git
+git clone [https://github.com/your-username/http-endpoint-health-checker.git](https://github.com/shaival99/Fetch_SRE_Take_Home_Challenge.git)
 ```
 
 ### Navigate to the repository directory
