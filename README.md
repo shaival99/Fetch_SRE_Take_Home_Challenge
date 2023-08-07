@@ -13,7 +13,7 @@ Make sure you have Python installed on your system. You can download it from the
 
 1. Clone this repository to your local machine:
 
-```bash
+```
 git clone https://github.com/your-username/http-endpoint-health-checker.git
 ```
 
