@@ -1,4 +1,4 @@
-# Fetch_SRE_Take_Home_Challenge
+# Fetch SRE Take Home Challenge
 
 
 This is a Python program that monitors the health of a set of HTTP endpoints and calculates availability percentages for each domain. It reads input from a YAML configuration file, tests the health of endpoints every 15 seconds, and logs cumulative availability percentages for each domain.
