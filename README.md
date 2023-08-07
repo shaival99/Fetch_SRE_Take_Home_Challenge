@@ -15,7 +15,9 @@ Make sure you have Python installed on your system. You can download it from the
 
 ```bash
 git clone https://github.com/your-username/http-endpoint-health-checker.git
+```
 
-Navigate to the repository directory:
+### Navigate to the repository directory:
+```
 cd http-endpoint-health-checker
-
+```
