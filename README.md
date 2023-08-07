@@ -17,7 +17,26 @@ Make sure you have Python installed on your system. You can download it from the
 git clone https://github.com/your-username/http-endpoint-health-checker.git
 ```
 
-### Navigate to the repository directory:
+### Navigate to the repository directory
+Change the directory name to wherever your file is located
 ```
 cd http-endpoint-health-checker
 ```
+
+### Install the required Python packages:
+```
+pip install requests pyyaml
+```
+
+### Usage
+
+Run the program by providing the path to your YAML configuration file as a command-line argument:
+
+```
+python health_checker.py path/to/config.yaml
+```
+Replace path/to/config.yaml with the actual path to your configuration file.
+
+The program will continuously test the health of the endpoints every 15 seconds and display the availability percentage for each domain. You can manually exit the program using Ctrl+C.
+
+
